@@ -5,7 +5,7 @@ spring:
       # useSSL=false 表示不使用SSL加密
       # serverTimezone=CST 指定服务器的时区，CST（China Standard Time）
       url: jdbc:mysql://127.0.0.1:3306/wzt?useSSL=false&serverTimezone=CST&allowPublicKeyRetrieval=true
-      username: wzt
+      username: wzt 
       password: Qq123698745
    redis:
       # 大家要把IP改为远程服务器的IP
